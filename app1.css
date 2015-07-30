@@ -1,0 +1,58 @@
+  .one{
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    border:1px solid orange;
+    background-color: orange;
+    font-style: italic;
+    /*position:fixed;
+    bottom: 80%;*/
+      margin-bottom: 60px;
+    width: 100%;
+    /*margin-bottom:120px;*/
+  }
+  .two{
+    text-align: center;
+    color:white;
+    border-radius:10px;
+    font-style: italic;
+
+    /*margin-top: 30px;*/
+  }
+  .container{
+    border-radius: 10px;
+    border:1px solid skyblue;
+    text-align: center;
+    color: green;
+    height: 30px;
+    font-style: italic;
+    /*background-color: skyblue;*/
+    }
+  .table{
+    height: 10px;
+    margin-top: 30px;
+
+      }
+  body{
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("http://easylivingmom.com/wp-content/uploads/2012/07/grocery-store-lg.jpg" );
+    /*background-image: url("http://easylivingmom.com/wp-content/uploads/2012/07/grocery-store-lg.jpg");*/
+    /*width: 100%;*/
+    /*background-repeat:no-repeat;*/
+    /*background-image width:100%;*/
+    background-size:100% 100%;
+    opacity: 1;
+    }
+  .three{
+    color:white;
+    font-weight: bolder;
+    text-align: center;
+    }
+    .four{
+      /*position: fixed;*/
+
+      /*margin-top: 50px;*/
+    }
+    .five{
+      padding-top: 30px;
+      margin-top: 60px;
+    }
